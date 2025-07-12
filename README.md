@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishna861996
-- 👀 I’m interested in ...javascript,html
-- 🌱 I’m currently learning ...html
+- 👀 I’m interested in ...c,c++,python
+- 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
